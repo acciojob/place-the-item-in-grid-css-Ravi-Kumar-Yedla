@@ -1,6 +1,6 @@
 .holder{
 	display:grid;
-	grid-template-columns:repeat(2,1fr);
+	grid-template-columns:100px 100px;
 	grid-template-rows:repeat(2,1fr);
 }
 
@@ -25,7 +25,7 @@
 .item-4{
 	height:100px;
 	width:100px;
-	background-color:black;	
+	background-color:violet;	
 }
 
 
